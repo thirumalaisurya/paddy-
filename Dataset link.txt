@@ -1,0 +1,8 @@
+https://www.kaggle.com/vbookshelf/rice-leaf-diseases
+
+https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset
+
+https://www.kaggle.com/rajkumar898/rice-plant-dataset
+
+Pest Symptoms : http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases
+Disease symptoms : http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects
